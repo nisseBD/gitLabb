@@ -1,3 +1,3 @@
 # gitLabb
 
-#fisksoppa
+#fisksopp
